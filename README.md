@@ -4,8 +4,8 @@
 
 💡 &nbsp; I'm a software developement engineer currently working at HashedIn by Deloitte.\
 🎓&nbsp;I graduated from Dayananda Sagar College of Engineering affiliated to Visvesvaraya Technological University(B.E in ECE, passed out in 2018).\
-🌱 &nbsp;I'm on track for learning more everyday and upskilling in Fullstack webdevelopment.\
-✍️ &nbsp;In my free time, I play chess, watch movies, anime and web series.\
+🌱 &nbsp;I'm on track for learning more everyday and upskilling in Fullstack web development.\
+✍️ &nbsp;In my free time I play chess, watch movies, anime and web series.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on web dovelopment tech topics!\
 💬 &nbsp;I am open to any recommendation and suggestions.
 
@@ -13,7 +13,7 @@
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
