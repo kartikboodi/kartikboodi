@@ -1,15 +1,15 @@
 # Hola, I'm Kartik Boodi (💻💖☕)
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img>&nbsp;About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="10px"></img>&nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher at Deloitte.
-🎓&nbsp;I graduated from GB Pant University of Agriculture and Technology, Pantnagar (B.Tech, Computer Science and Engineering, Batch of 2019).\
-🌱 &nbsp;I'm on track for learning more about Frontend Technologies.\
-✍️ &nbsp;In my free time, I play chess, badminton and LAN games.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the frontend related topics!
+💡 &nbsp; I'm a software developement engineer currently working at HashedIn by Deloitte.
+🎓&nbsp;I graduated from Dayananda Sagar College of Engineering affiliated to Visvesvaraya Technological University(B.E in ECE, passed out in 2018).
+🌱 &nbsp;I'm on track for learning more everyday and upskilling in Fullstack webdevelopment.
+✍️ &nbsp;In my free time, I play chess, watch movies, anime and web series.
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on web dovelopment tech topics!
 💬 &nbsp;I am open to any recommendation and suggestions.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">&nbsp;Programming Languages
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="10px">&nbsp;Programming Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,9 +18,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-##<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">&nbsp;Web Development
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="10px">&nbsp;Web Development
 
 ![ASP.Net](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![.Net Core](https://img.shields.io/badge/.NET-Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
