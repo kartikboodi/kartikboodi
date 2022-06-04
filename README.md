@@ -1,6 +1,6 @@
 # Hola, I'm Kartik Boodi (💻💖☕)
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="10px"></img>&nbsp;About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width=50px></img>&nbsp;About Me
 
 💡 &nbsp; I'm a software developement engineer currently working at HashedIn by Deloitte.
 🎓&nbsp;I graduated from Dayananda Sagar College of Engineering affiliated to Visvesvaraya Technological University(B.E in ECE, passed out in 2018).
