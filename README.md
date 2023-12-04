@@ -36,9 +36,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/Kartikboodi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manas1803&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="kartikboodi"/>
+<a href="https://github.com/kartikboodi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kartikboodi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="kartikboodi"/>
   <br />
   <br />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manas1803&layout=compact&langs_count=8&theme=algolia" alt="kartikboodi"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kartikboodi&layout=compact&langs_count=8&theme=algolia" alt="kartikboodi"/>
   <br />
